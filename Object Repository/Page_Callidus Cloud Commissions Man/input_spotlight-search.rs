@@ -3,18 +3,24 @@
    <description></description>
    <name>input_spotlight-search</name>
    <tag></tag>
-   <elementGuidId>0ad79e40-2827-4183-aeaa-454fc6ac9c15</elementGuidId>
+   <elementGuidId>97591a4c-3b60-4661-af3d-4162c3fa8a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='spotlight-search']</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -28,7 +34,7 @@
       <value>Search</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -39,13 +45,13 @@
       <matchCondition>equals</matchCondition>
       <name>data-ember-action</name>
       <type>Main</type>
-      <value>3449</value>
+      <value>3810</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;spotlight-search&quot;)</value>
+      <value>//input[@id='spotlight-search']</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sales Performance Home</name>
+   <name>a_Manage organization</name>
    <tag></tag>
-   <elementGuidId>275caefe-30b2-4e5e-8b08-0d6cfd15059e</elementGuidId>
+   <elementGuidId>45506a1d-0aee-4ce0-94ba-51aeee20b9ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-      </entry>
-      <entry>
          <key>BASIC</key>
-         <value>//span[@class='cald-ui-header__left']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
+         <value>//div[@class='landingHeading']/a[@href='#/position/list/false']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -23,29 +17,46 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ember2676</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cald-ui-dropdown cald-ui-dropdown--clickable</value>
+      <value>ember-view linkColor selected</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/position/list/false</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sales Performance Home
-  
-    </value>
+      <value> 
+													
+			        								
+			        									Manage organization
+			        								 
+		        								</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//span[@class='cald-ui-header__left']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
+      <value>//div[@class='landingHeading']/a[@href='#/position/list/false']</value>
    </webElementProperties>
 </WebElementEntity>

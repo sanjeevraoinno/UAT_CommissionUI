@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_ADMINISTRATION</name>
+   <name>div_ORGANIZATION</name>
    <tag></tag>
-   <elementGuidId>686549f8-2195-46fd-ab3f-4740ad140f90</elementGuidId>
+   <elementGuidId>a45e5227-5489-4125-a251-67a607b41633</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class='app-nav admin-menu']</value>
+         <value>//div[@class='app-nav org-menu']/a[@class='selected']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//div[@class='app-nav admin-menu']</value>
+      <value>//div[@class='app-nav org-menu']/a[@class='selected']</value>
    </webElementProperties>
 </WebElementEntity>

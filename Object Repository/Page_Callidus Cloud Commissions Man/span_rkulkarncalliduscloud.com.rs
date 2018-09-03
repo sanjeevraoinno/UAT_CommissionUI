@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Sales Performance Home</name>
+   <name>span_rkulkarncalliduscloud.com</name>
    <tag></tag>
-   <elementGuidId>275caefe-30b2-4e5e-8b08-0d6cfd15059e</elementGuidId>
+   <elementGuidId>95868e67-ad7a-4799-bc0b-5919ebbd4f19</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-      </entry>
-      <entry>
          <key>BASIC</key>
-         <value>//span[@class='cald-ui-header__left']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
+         <value>//span[@class='cald-ui-header__right']/span[@class='cald-ui-header__user']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -37,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sales Performance Home
+      <value>rkulkarn@calliduscloud.com
   
     </value>
    </webElementProperties>
@@ -46,6 +40,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//span[@class='cald-ui-header__left']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
+      <value>//span[@class='cald-ui-header__right']/span[@class='cald-ui-header__user']/span[@class='cald-ui-dropdown cald-ui-dropdown--clickable']</value>
    </webElementProperties>
 </WebElementEntity>

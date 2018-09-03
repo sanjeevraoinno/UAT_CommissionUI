@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_ADMINISTRATION</name>
+   <name>a_Earning Groups</name>
    <tag></tag>
-   <elementGuidId>686549f8-2195-46fd-ab3f-4740ad140f90</elementGuidId>
+   <elementGuidId>8b22f08a-e934-48fc-82e0-6e1f8c1f1e62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class='app-nav admin-menu']</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//div[@class='app-nav admin-menu']</value>
+      <value>//div[@class='app-subdiv']/a[@href='#/earninggroup/list']</value>
    </webElementProperties>
 </WebElementEntity>

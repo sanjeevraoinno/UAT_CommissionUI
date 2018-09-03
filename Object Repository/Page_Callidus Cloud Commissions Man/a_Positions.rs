@@ -1,72 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>a_Positions</name>
    <tag></tag>
-   <elementGuidId>092ed90c-2d3c-4440-a036-c28ceeb5a418</elementGuidId>
+   <elementGuidId>d45a6763-7125-4f32-874c-ed657b70e031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='app-subnav light-shadow']/div[@class='app-org-subdiv']/a[@class='ember-view active']</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
+      <value>a</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-disabled</name>
+      <name>id</name>
       <type>Main</type>
-      <value>vm.disallowLoginSubmit()</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ng-class</name>
-      <type>Main</type>
-      <value>{'disabled': vm.disallowLoginSubmit()}</value>
+      <value>ember2842</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary cald_3D_button_primary ng-binding</value>
+      <value>ember-view</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>ng-click</name>
+      <name>href</name>
       <type>Main</type>
-      <value>vm.login()</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
+      <value>#/position/list/false</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-disabled</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>false</value>
+      <value>ui-tooltip-4</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Login</value>
+      <value>  Positions </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)/div[@class=&quot;ng-scope&quot;]/login[@class=&quot;ng-scope ng-isolate-scope&quot;]/div[@class=&quot;voffset&quot;]/form[@class=&quot;ng-valid ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-primary cald_3D_button_primary ng-binding&quot;]</value>
+      <value>//div[@class='app-subnav light-shadow']/div[@class='app-org-subdiv']/a[@class='ember-view active']</value>
    </webElementProperties>
 </WebElementEntity>

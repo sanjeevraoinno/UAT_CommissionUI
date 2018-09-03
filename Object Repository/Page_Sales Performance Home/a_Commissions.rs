@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Commissions</name>
    <tag></tag>
-   <elementGuidId>fe6baf27-c040-47dc-be3f-b970f16d2edd</elementGuidId>
+   <elementGuidId>4a8578ff-09fb-47bc-9bd5-0e683a587bad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -27,14 +27,14 @@
       <value>/CallidusPortal/ssolaunch?appId=COMM</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>target</name>
       <type>Main</type>
       <value>_self</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>

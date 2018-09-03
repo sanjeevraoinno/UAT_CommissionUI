@@ -3,11 +3,17 @@
    <description></description>
    <name>input_Enter Search Terms</name>
    <tag></tag>
-   <elementGuidId>1c1df2f4-0b4a-40f5-8dfc-65ed2d3f6479</elementGuidId>
+   <elementGuidId>9a240bfb-08a4-4f7e-999c-f655805f7c35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='rightfloat __adv_search']/div[@class='leftfloat']/input[@id='spotlight-text']</value>
+      </entry>
+   </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -21,38 +27,38 @@
       <value>defaultText</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>text</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
       <value>Enter Search Terms</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>spotlight-text</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
       <value>Search</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;spotlight-text&quot;)</value>
+      <value>//div[@class='rightfloat __adv_search']/div[@class='leftfloat']/input[@id='spotlight-text']</value>
    </webElementProperties>
 </WebElementEntity>
