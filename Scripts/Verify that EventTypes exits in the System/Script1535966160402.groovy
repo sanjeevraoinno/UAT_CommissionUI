@@ -22,7 +22,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Verify Login Functionality'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.delay(5)
+
 WebUI.mouseOver(findTestObject('Page_Callidus Cloud Commissions Man/div_ADMINISTRATION'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Page_Callidus Cloud Commissions Man/a_Event Types'))
 
